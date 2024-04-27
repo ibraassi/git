@@ -1,5 +1,7 @@
 # Git Assignment
 
+https://github.com/ibraassi/git_assignment
+
 In this assignment, you will be learning more about `git` and `GitHub` by working through the questions. As you answer the questions, you will practice your git skills by staging, committing and pushing your answers (changes) along the way.
 
 1. Create a new public repository called `git_assignment` without a `README.md`
